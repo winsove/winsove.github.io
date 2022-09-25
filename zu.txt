@@ -1,4 +1,4 @@
- { "urls": [{ "url": "http://2link.atwebpages.com ", "name": "加密接口", "time": "2022-08-28 16:13:33" },
+ { "urls": [{ "url": "http://2link.atwebpages.com", "name": "加密接口", "time": "2022-08-28 16:13:33" },
 { "url": "http://52bsj.vip:98/wuai", "name": "吾爱评测", "time": "2022-08-28 16:13:33" },
 { "url": "http://www.dmtv.ml/mao/mao.php?type=single ", "name": "293内置", "time": "2022-08-28 16:13:33" },
 { "url": "https://神器每日推送.tk/pz.json", "name": "神器", "time": "2022-08-30 12:17:30" }, 
