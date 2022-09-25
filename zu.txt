@@ -3,7 +3,7 @@
 { "url": "http://52bsj.vip:98/wuai", "name": "吾爱评测" },
 { "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json", "name": "TV影视" },
 { "url": "https://share.nite07.com/api/v3/file/source/18035/BOX3.json?sign=m9tt9AehwEjJDDEvTovp-zk4ckhrAj89uRP02TRq2_M%3D%3A0", "name": "月光PRO" },
-{ "url": "http://52.78.50.140:50217/txt/pycms2.json", "name": "道长" },
+{ "url": "https://gitcode.net/bd/v/-/raw/main/8.txt", "name": "TV2" },
 { "url": "https://神器每日推送.tk/pz.json", "name": "每日神器" },
 { "url": "https://share.nite07.com/api/v3/file/source/20889/boxzy.json?sign=4zM1VDZ3fmEr6yQAsULp_PMzzyLguYN9wKwDP5Bq4hY%3D%3A0", "name": "小苹果" },
 { "url": "http://miaotvs.cn/osc", "name": "太阳" },
@@ -20,7 +20,8 @@
 { "url": "https://0a.fit/X000", "name": "X000内置" },
 { "url": "https://0a.fit/7777", "name": "🐱7777" }, 
 { "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9", "name": "星辰" }, 
+{ "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json", "name": "影阁二" }, 
 { "url": "http://home.jundie.top:81/TVBox/yosakoi.json", "name": "🍒军碟" },
 { "url": "https://gitcode.net/kuukey/a/-/raw/master/0.json", "name": "爬虫" },
- {"url": "https://freetvbox.ml/api/qy.txt", "name": "晴园" }, 
+ {"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "佰欣园" }, 
 { "url": "http://刚刚.live/猫", "name": "刚刚" }] }
