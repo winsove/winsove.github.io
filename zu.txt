@@ -1,5 +1,5 @@
  { "urls": [{ "url": "http://2link.atwebpages.com", "name": "加密接口" },
-{ "url": "https://github.com/dxawi/0/blob/main/0.json", "name": "dxawi" },
+{ "url": "https://ghproxy.com/https://github.com/dxawi/0/blob/main/0.json", "name": "dxawi" },
 { "url": "http://dlj.bz/yue", "name": "月光PRO" },
 { "url": "http://43.139.29.179:5705/config/2", "name": "道长" },
 { "url": "http://ob4.cn/tvmao", "name": "白侃天下" },
