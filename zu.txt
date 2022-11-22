@@ -1,17 +1,17 @@
- { "urls": [{ "url": "https:agit.ai/66666/mao/raw/branch/master/00/自用.jpg", "name": "月光" },
+{ "urls": [{ "url": "https:agit.ai/66666/mao/raw/branch/master/00/自用.jpg", "name": "月光" },
 { "url": "https:ghproxy.com/https:github.com/dxawi/0/blob/main/0.json", "name": "dxawi爬虫" },
 { "url": "http:dlj.bz/yue", "name": "月光PRO" },
 { "url": "http:43.139.29.179:5705/config/2", "name": "道长" },
 { "url": "https:raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json", "name": "甜蜜" },
 { "url": "http:52bsj.vip:98/wuai", "name": "吾爱评测" },
-{ "url": "https:神器每日推送.tk/pz.json", "name": "每日神器" },
+{ "url": "https:神器每日推送.tk/pz.json", "name": "每日神器" },。///////////////
 { "url": "http:js.134584.xyz/json/pp87.json", "name": "影视酷" },
 { "url": "http:120.53.102.254/tvb/", "name": "懒人苹果线路" },
 { "url": "https:agit.ai/66666/mao/raw/branch/master/00/自用.json", "name": "大佬自用" },
 { "url": "http:maoyingshi.cc/tvbox/云星日记/1.m3u8", "name": "〔云星日记〕家庭版线路" },
 { "url": "http:maoyingshi.cc/tvbox/云星日记/bili.json", "name": "〔云星日记〕哔哩套餐线路" },
  { "url": "http:maoyingshi.cc/tvbox/云星日记/ali.m3u8", "name": "〔云星日记〕阿里套餐线路" },
-{ "url": "https:agit.ai/comeonbaby0122/Q/raw/branch/master/Q.json", "name": "蓝光秒播py" },失效
+//{ "url": "https:agit.ai/comeonbaby0122/Q/raw/branch/master/Q.json", "name": "蓝光秒播py" },失效
 { "url": "http:dlj.bz/yQHCg1", "name": "学习教育" },
 { "url": "https:gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json", "name": "TV影视" },
 { "url": "https:freed.yuanhsing.cf/TVBox/meowcf.json", "name": "CH猫友" },
