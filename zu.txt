@@ -1,4 +1,4 @@
- { "urls": [{ "url": "http://2link.atwebpages.com", "name": "白侃天下" },
+ { "urls": [{ "url": "https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg", "name": "白侃天下" },
 { "url": "https://ghproxy.com/https://github.com/dxawi/0/blob/main/0.json", "name": "dxawi爬虫" },
 { "url": "http://dlj.bz/yue", "name": "月光PRO" },
 { "url": "http://43.139.29.179:5705/config/2", "name": "道长" },
