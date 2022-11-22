@@ -4,7 +4,7 @@
 { "url": "http:43.139.29.179:5705/config/2", "name": "道长" },
 { "url": "https:raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json", "name": "甜蜜" },
 { "url": "http:52bsj.vip:98/wuai", "name": "吾爱评测" },
-{ "url": "https:神器每日推送.tk/pz.json", "name": "每日神器" },。///////////////
+{ "url": "https:神器每日推送.tk/pz.json", "name": "每日神器" },
 { "url": "http:js.134584.xyz/json/pp87.json", "name": "影视酷" },
 { "url": "http:120.53.102.254/tvb/", "name": "懒人苹果线路" },
 { "url": "https:agit.ai/66666/mao/raw/branch/master/00/自用.json", "name": "大佬自用" },
