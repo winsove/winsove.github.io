@@ -17,6 +17,9 @@ CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
 CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225647/index.m3u8
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1672502399-0-0-ab2f43952f7fcf1b2da0c3372ec7e0e5;{User-Agent@0151?zhubd}
+荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1672502399-0-0-a9eb4b69fedb8e6d352f38af4867984f;{User-Agent@0151?zhubd}
+荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1672502399-0-0-dd8f147fdd4d8fa5cf320242c32b4ecd;{User-Agent@0151?zhubd}
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8
 无锡都市资讯,http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8
