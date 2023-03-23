@@ -15,7 +15,8 @@
         {
             "url": "https://神器每日推送.tk",
             "name": "🚀神器每日推送"
-        },          
+        }, 
+       {"name":"🌃月光宝盒JS","url":"https://jihulab.com/ygbh1/box/-/raw/main/JS/js.json"},         
         {
             "url": "https://yydsys.top/duo/x.json",
             "name": "🚀阿里专线"
